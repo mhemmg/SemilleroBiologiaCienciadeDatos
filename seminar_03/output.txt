@@ -1,0 +1,5 @@
+mi proteina es: ['unknown_transcript_1']
+mi proteina es: ['unknown_transcript_1']
+mi proteina es: ['unknown_transcript_1']
+mi proteina es: ['MSTRG.1.3']
+mi proteina es: ['MSTRG.1.3']
